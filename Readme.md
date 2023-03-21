@@ -4,7 +4,7 @@
 Analysis Geo 880**
 
 | Semester:      | FS22                              |
-|----------------|---------------------------------- |
+|:---------------|:--------------------------------- |
 | **Data:**      | Wild Boar Movement Data           |
 | **Title:**     | The title of your project         |
 | **Student 1:** | Name of Student 1                 |
