@@ -3,7 +3,7 @@
 **Patterns & Trends in Environmental Data / Computational Movement
 Analysis Geo 880**
 
-| Semester:      | FS22                              |
+| Semester:      | FS23                              |
 |:---------------|:--------------------------------- |
 | **Data:**      | Wild Boar Movement Data           |
 | **Title:**     | The title of your project         |
