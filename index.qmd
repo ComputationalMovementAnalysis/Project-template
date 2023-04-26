@@ -8,18 +8,19 @@ output: html
 
 <!-- You can add  your R Code with Code chunks-->
 
-```{r, echo = FALSE, warning=FALSE, message=FALSE}
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
 
 # You can set chunk options individually per code chunk, as was done with this
 # code chunk.
 
-# echo = FALSE           hides the code from the generated output
-# warning = FALSE        hides warnings from the generated output
-# message = FALSE        hides messages from the generated output
+# echo: false           hides the code from the generated output
+# warning: false        hides warnings from the generated output
+# message: false        hides messages from the generated output
 
-# To set the setting for all code chunks, use the following code:
-
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+# To apply the setting for all code chunks, add the options to the yaml header of the document (in between the ---) without the preceeding "#|".
 
 ```
 
@@ -36,12 +37,11 @@ Society philosophy merciful selfish sexuality depths overcome madness. Morality 
 Against holiest pinnacle mountains merciful ideal society play disgust will ubermensch ultimate pinnacle victorious. Snare value law gains battle pious intentions revaluation strong. Insofar snare faith ideal oneself.
 
 ```{r}
-library(ComputationalMovementAnalysisData)
 library(ggplot2)
 
 # Include tables with the function "kable"
 
-knitr::kable(head(wildschwein_BE))
+knitr::kable(head(mtcars))
 ```
 
 <!-- the following is just a placeholder text, remove it!-->
@@ -50,9 +50,8 @@ Revaluation evil aversion ultimate decrepit disgust decrepit eternal-return nobl
 ```{r}
 # include plots automatically
 
-ggplot(schreck_locations, aes(E, N)) +
-  geom_point() +
-  coord_map()
+ggplot(mtcars, aes(cyl, disp)) +
+  geom_point()
 
 ```
 
