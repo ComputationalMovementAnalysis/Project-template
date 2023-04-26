@@ -3,12 +3,12 @@
 **Patterns & Trends in Environmental Data / Computational Movement
 Analysis Geo 880**
 
-| Semester:      | FS23                              |
-|:---------------|:--------------------------------- |
-| **Data:**      | Wild Boar Movement Data           |
-| **Title:**     | The title of your project         |
-| **Student 1:** | Name of Student 1                 |
-| **Student 2:** | Name of Student 2                 |
+| Semester:      | FS23                                     |
+|:---------------|:---------------------------------------- |
+| **Data:**      | What type of data are you focussing on?  |
+| **Title:**     | The title of your project                |
+| **Student 1:** | Name of Student 1                        |
+| **Student 2:** | Name of Student 2                        |
 
 ## Abstract 
 <!-- (50-60 words) -->
