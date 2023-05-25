@@ -2,7 +2,9 @@
 title: The title of your Semesterproject
 subtitle: A subtle subtitle
 author: Firstname1 Lastname1 and Firstname2 Lastname2
-output: html
+format:
+  html:
+    code-fold: true
 ---
 
 
