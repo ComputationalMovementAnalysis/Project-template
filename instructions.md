@@ -2,12 +2,19 @@
 
 # Instructions on writing your semester project with Quarto
 
+## 
+
+![image](https://github.com/ComputationalMovementAnalysis/Project-template/assets/12532091/384a5859-2407-4a0a-9324-c1ad4517663f)
+
+
+![image](https://github.com/ComputationalMovementAnalysis/Project-template/assets/12532091/b78771d9-9832-4918-8cc3-bb81f7ac7f4e)
+
+
 ## Research proposal
 
 To submit your research proposal, fill out the Document [Readme.md]([Readme.md]). Note that this is a Markdown document where you can use the [markdown syntax](https://www.markdownguide.org/basic-syntax/) to write text. 
 
 ## Project Report
-
 
 ### Writing
 
