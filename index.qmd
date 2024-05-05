@@ -27,3 +27,15 @@ lang: en  # switch to "de" if you write your report in german
 
 ## Discussion
 
+## Appendix
+
+### Wordcount
+
+<!-- after installing the wordcountadding, remove the line "#| eval: false" -->
+
+```{r}
+#| eval: false
+wordcountaddin::word_count("index.qmd")
+```
+
+
