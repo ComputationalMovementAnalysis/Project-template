@@ -24,19 +24,25 @@ Analysis Geo 880**
 <!-- (50-60 words) -->
 
 ## Results / products
+<!-- (50-100 words) -->
 <!-- What do you expect, anticipate? -->
 
 ## Data
+<!-- (100-150 words) -->
 <!-- What data will you use? Will you require additional context data? Where do you get this data from? Do you already have all the data? -->
 
 ## Analytical concepts
+<!-- (100-200 words) -->
 <!-- Which analytical concepts will you use? What conceptual movement spaces and respective modelling approaches of trajectories will you be using? What additional spatial analysis methods will you be using? -->
 
 ## R concepts
+<!-- (50-100 words) -->
 <!-- Which R concepts, functions, packages will you mainly use. What additional spatial analysis methods will you be using? -->
 
 ## Risk analysis
+<!-- (100-150 words) -->
 <!-- What could be the biggest challenges/problems you might face? What is your plan B? -->
 
 ## Questions? 
+<!-- (100-150 words) -->
 <!-- Which questions would you like to discuss at the coaching session? -->
